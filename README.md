@@ -8,6 +8,8 @@ internet connection.
 
 # Collecting resources
 
+## Climate change/modeling resources
+
  * The Carleton materials for
    [Climate of Change: Interactions and Feedbacks between Water, Air, and Ice](https://serc.carleton.edu/integrate/teaching_materials/climate_change/index.html)
    look awesome, and come highly recommended.
@@ -23,3 +25,10 @@ internet connection.
    and
    [Global Warming II: Create Your Own Models in Python](https://www.coursera.org/learn/global-warming-model#syllabus)
    so that seems pretty relevant!
+
+## New Zealand specific
+
+ * http://www.mfe.govt.nz/climate-change/likely-impacts-of-climate-change/overview-of-likely-climate-change-impacts
+
+# Course structure
+
