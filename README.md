@@ -10,6 +10,8 @@ internet connection.
 
 ## Climate change/modeling resources
 
+
+ * [Scientists develop tool which can predict coastal erosion and recovery in extreme storms](https://www.sciencedaily.com/releases/2017/10/171011091718.htm)
  * The Carleton materials for
    [Climate of Change: Interactions and Feedbacks between Water, Air, and Ice](https://serc.carleton.edu/integrate/teaching_materials/climate_change/index.html)
    look awesome, and come highly recommended.
@@ -25,6 +27,7 @@ internet connection.
    and
    [Global Warming II: Create Your Own Models in Python](https://www.coursera.org/learn/global-warming-model#syllabus)
    so that seems pretty relevant!
+ * [Statistics](https://www.eurekalert.org/pub_releases/2017-12/asa-csy122117.php)
 
 ## New Zealand specific
 
@@ -32,3 +35,4 @@ internet connection.
 
 # Course structure
 
+via Callie: https://anthropology.columbia.edu/people/profile/354
